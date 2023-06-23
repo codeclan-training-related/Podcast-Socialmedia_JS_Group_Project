@@ -45,3 +45,4 @@ By running npm run server:dev, you can start the development server and test you
 ## The src folder which live in client folder is the place where developers write their code. This is where they can store all of their source files, such as HTML, CSS, JavaScript, and other files. The dist folder is where the compiled code is stored. This is the code that is ready to be deployed to a production environment.
 ## "server" folder typically refers to the directory that contains the server-side code of the application. It is where the backend code resides, responsible for handling requests from the client, processing data, and managing the application's business logic.# Podcast-Socialmedia_JS_Group_Project
 # podcast-socialmedia
+# podcast-socialmedia
