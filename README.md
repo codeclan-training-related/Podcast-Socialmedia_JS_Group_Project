@@ -46,3 +46,4 @@ By running npm run server:dev, you can start the development server and test you
 ## "server" folder typically refers to the directory that contains the server-side code of the application. It is where the backend code resides, responsible for handling requests from the client, processing data, and managing the application's business logic.# Podcast-Socialmedia_JS_Group_Project
 # podcast-socialmedia
 # podcast-socialmedia
+# podcast-socialmedia
